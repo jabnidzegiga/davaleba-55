@@ -1,0 +1,28 @@
+.h{
+    color: #F00;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.ol{
+    margin-left: 55px;
+    color: #5F5F5F;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.img{
+    margin-left: 53px;
+}
+.p2{
+    width: 335px;
+    color: #5B5B5B;
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: normal;
+}
